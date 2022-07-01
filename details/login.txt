@@ -1,0 +1,19 @@
+MySQL Details:
+
+Site Name: Demo Network
+Database Name: demonetwork
+Database Table Prefix: wp_
+Email Address: developerfaraz@yahoo.com
+
+WP Admin Details:
+
+Username: adminfarazhashmi
+Password: Ry%&84wM
+Email: developerfaraz@yahoo.com
+Site URL: http://websites/demonetwork/
+
+WordPress MultiSite:
+https://www.wpbeginner.com/glossary/multisite/
+
+How to Install and Setup WordPress Multisite Network:
+https://www.wpbeginner.com/wp-tutorials/how-to-install-and-setup-wordpress-multisite-network/

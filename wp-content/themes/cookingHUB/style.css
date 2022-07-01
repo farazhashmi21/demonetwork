@@ -1,0 +1,20 @@
+/*
+Theme Name: Cooking Hub
+Theme URI: 
+Author: Developer Faraz Hashmi
+Author URI: https://aboutme.me/farazhashmi
+Description: Cooking Hub Theme.
+Requires at least: 5.9
+Tested up to: 6.0
+Requires PHP: 5.6
+Version: 1.2
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: cookinghub
+Tags: one-column,
+*/
+
+*{
+	margin: 0;
+	padding: 0;
+}
